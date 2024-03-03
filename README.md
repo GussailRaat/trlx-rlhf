@@ -23,6 +23,7 @@ The following RL algorithms are currently implemented:
 git clone https://github.com/CarperAI/trlx.git
 cd trlx
 pip install torch --extra-index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
 pip install -e .
 ```
 
